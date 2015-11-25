@@ -1,0 +1,28 @@
+name: The Garrett Mendez
+favicon: null
+layout_spectrum: 0.9000526750460267
+typography_spectrum: 0.7863310435786843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8061740600969642
+  lightness: 0.7333630819339305
+  saturation: 0.208288585068658
+  rhythmicContrast: 0.1742094475775957
+purpose: []
