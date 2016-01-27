@@ -1,29 +1,41 @@
-name: The Garrett Mendez
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.36004
 title: 'The most information on Garrett Mendez for free!'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.208288585068658
+  lightness: 0.7333630819339305
+  brandStrength: 0.952202
+  brandColors:
+    - '#7F4228'
+    - '#170B06'
+    - '#FFFFFF'
+    - '#FAA46D'
+    - '#FFCF91'
+  rhythmicContrast: 0.1742094475775957
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: The Garrett Mendez
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8061740600969642
-  lightness: 0.7333630819339305
-  saturation: 0.208288585068658
-  rhythmicContrast: 0.1742094475775957
-purpose: []
+typography_spectrum: 0.5547798
+layout_spectrum: 1
